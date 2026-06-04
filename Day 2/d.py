@@ -1,4 +1,3 @@
-# Q8	Write a program to Check whether a number is palindrome.
 number = input("Enter your number: ").lower().strip()
 
 if number == number[::-1]:
