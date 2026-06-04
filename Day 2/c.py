@@ -1,5 +1,3 @@
-# Q7\tWrite a program to Find product of digits.
-
 s = input("Enter your number: ")
 
 digits = [ch for ch in s]
